@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="JwtUserTest" type="PHP" />
+      <mapping pattern="Security/JwtUserTest" type="PHP" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+    </extensionMap>
+  </component>
+</application>

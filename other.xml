@@ -1,0 +1,11 @@
+<application>
+  <component name="BuiltInServerOptions" allowUnsignedRequests="true" />
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Devel/cyberspectrum/kedaredia/api/vendor/phpcq/phpcq/phpcq.main.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="10.2.0" last-modified="1527143807000" />
+    </local-interpreter>
+  </component>
+</application>

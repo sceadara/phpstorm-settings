@@ -1,0 +1,12 @@
+<templateSet group="PHP">
+  <template name="phpmd" value="@SuppressWarnings(PHPMD.$END$)" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+  <template name="phpmd.publicmethods" value="@SuppressWarnings(PHPMD.ExcessivePublicCount)" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+</templateSet>

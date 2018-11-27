@@ -1,12 +1,17 @@
 <templateSet group="PHP">
-  <template name="phpmd" value="@SuppressWarnings(PHPMD.$END$)" description="" toReformat="false" toShortenFQNames="true">
+  <template name="phpmd" value="@SuppressWarnings(PHPMD.$END$)" description="Suppress warnings" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP Comment" value="true" />
     </context>
   </template>
-  <template name="phpmd.publicmethods" value="@SuppressWarnings(PHPMD.ExcessivePublicCount)" description="" toReformat="false" toShortenFQNames="true">
+  <template name="phpmd.publicmethods" value="@SuppressWarnings(PHPMD.ExcessivePublicCount)" description="Supress warnigs for ExcessivePublicCount" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+  <template name="phpcs.ignore" value="// @codingStandardsIgnoreStart&#10;// @codingStandardsIgnoreEnd" description="Ignore CodeSniffer Standards start/end" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
     </context>
   </template>
 </templateSet>

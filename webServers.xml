@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c7078ce2-d233-4bbd-bd1a-b1c189eec14b" name="emendo-dev.de" url="http://emendo-v5.de">
+        <fileTransfer host="emendo-v5.de" port="22" rootFolder="/var/www/vhosts/emendo-dev.de" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

@@ -5,7 +5,6 @@
   <component name="EditorSettings">
     <option name="IS_VIRTUAL_SPACE" value="true" />
     <option name="IS_CARET_INSIDE_TABS" value="true" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>

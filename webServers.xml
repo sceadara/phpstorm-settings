@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c7078ce2-d233-4bbd-bd1a-b1c189eec14b" name="emendo-dev.de" url="http://83.169.4.84">
+        <fileTransfer host="83.169.4.84" port="22" rootFolder="/var/www/vhosts/emendo-dev.de" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d73694a4-f7d1-40b9-ad1a-2f99c051cc8e" name="emendo-v4" url="http://91.250.87.154">
+        <fileTransfer host="91.250.87.154" port="22" rootFolder="/var/www/vhosts/emendo-develop.de" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

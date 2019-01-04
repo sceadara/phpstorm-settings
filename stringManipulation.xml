@@ -1,0 +1,25 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="donationNagger">
+      <DonationNagger>
+        <option name="actionsExecuted" value="6" />
+      </DonationNagger>
+    </option>
+    <option name="history">
+      <list>
+        <ColumnAlignerModel>
+          <option name="added" value="1546613096972" />
+          <option name="separators">
+            <list>
+              <option value="&#9;" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+        </ColumnAlignerModel>
+      </list>
+    </option>
+    <option name="version" value="1" />
+  </component>
+</application>

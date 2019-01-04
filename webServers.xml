@@ -17,14 +17,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="01616460-9f9a-47d3-90af-1cfb018d632a" name="freiewaehler-stuttgart.de" url="http://freiewaehler-stuttgart.de">
-        <fileTransfer host="91.250.87.154" port="22" rootFolder="/var/www/vhosts/emendo-develop.de/freiewaehler-stuttgart.de" accessType="SFTP" authAgent="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>

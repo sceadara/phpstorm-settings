@@ -25,22 +25,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="dcc2f1a2-7cdb-43da-82d6-cb3f40d66f88" name="emendo-v5" url="https://83.169.4.84">
-        <fileTransfer host="83.169.4.84" port="22" rootFolder="/var/www/vhosts/emendo-dev.de" accessType="SFTP" authAgent="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="7910e68e-b305-477f-b84a-730ef6bc97cd" name="emendo-v5-v5" url="https://83.169.4.84">
-        <fileTransfer host="83.169.4.84" port="22" rootFolder="/var/www/vhosts/emendo-v5.de" accessType="SFTP" authAgent="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>

@@ -4,7 +4,6 @@
       <mapping pattern="JwtUserTest" type="PHP" />
       <mapping pattern="Security/JwtUserTest" type="PHP" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <removed_mapping ext="sqlite" approved="true" type="Native" />

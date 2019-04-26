@@ -1,9 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="accentColor" value="6f0588" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="39a199db:169ed78ae2f:-8000" />
     <option name="version" value="3.8.0.2" />
   </component>

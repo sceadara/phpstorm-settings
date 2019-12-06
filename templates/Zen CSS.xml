@@ -1,3 +1,7 @@
 <templateSet group="Zen CSS">
-  <template name="wid" value="widows: $END$;" description="widows:...;" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="wid" value="width: $END$;" description="width:...;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -5,8 +5,8 @@
         <entry key="$Copy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581089564565" />
-              <option name="times" value="1" />
+              <option name="last" value="1581365090119" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +93,8 @@
         <entry key="Console.TableResult.NavigateForeignAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581361055868" />
-              <option name="times" value="1" />
+              <option name="last" value="1581365074428" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -133,8 +133,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581363498101" />
-              <option name="times" value="125" />
+              <option name="last" value="1581365524846" />
+              <option name="times" value="130" />
             </ActionSummary>
           </value>
         </entry>

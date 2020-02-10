@@ -386,6 +386,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Exit">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581094269488" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ExpandLiveTemplateByTab">
           <value>
             <ActionSummary>

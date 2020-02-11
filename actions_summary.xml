@@ -733,8 +733,8 @@
         <entry key="Tree-selectParent">
           <value>
             <ActionSummary>
-              <option name="last" value="1581070803330" />
-              <option name="times" value="3" />
+              <option name="last" value="1581382755116" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -837,8 +837,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581380011915" />
-              <option name="times" value="12" />
+              <option name="last" value="1581382746797" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>

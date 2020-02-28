@@ -1,0 +1,10 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="83.169.4.84" id="3f45973b-de36-40f3-a1c0-490a03f9b535" port="22" username="emex-dev" />
+      <sshConfig authType="OPEN_SSH" host="91.250.87.154" id="45c10a1f-a310-4d5d-b7af-fdbeb8ddb39d" port="22" />
+      <sshConfig authType="OPEN_SSH" host="5.35.251.193" id="ba22400c-b566-4958-b728-3aac94261877" port="22" username="emex-dev" />
+      <sshConfig authType="OPEN_SSH" host="37.61.202.191" id="39e175eb-6370-4a16-8fdf-05d9f8394778" port="22" />
+    </configs>
+  </component>
+</application>

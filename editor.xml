@@ -1,19 +1,12 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="HIGHLIGHT_SCOPE" value="true" />
-  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="13" />
   </component>
   <component name="EditorSettings">
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_VIRTUAL_SPACE" value="true" />
     <option name="IS_CARET_INSIDE_TABS" value="true" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>

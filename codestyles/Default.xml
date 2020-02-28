@@ -1,175 +1,10 @@
 <code_scheme name="Default" version="173">
-  <CssCodeStyleSettings>
-    <option name="HEX_COLOR_LOWER_CASE" value="true" />
-    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
-  </CssCodeStyleSettings>
-  <DB2CodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
-    <option name="FROM_EL_WRAP" value="2" />
-    <option name="WHERE_EL_WRAP" value="3" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
-    <option name="FROM_EL_WRAP" value="2" />
-    <option name="WHERE_EL_WRAP" value="3" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
-    <option name="FROM_EL_WRAP" value="2" />
-    <option name="WHERE_EL_WRAP" value="3" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
-    <option name="FROM_EL_WRAP" value="2" />
-    <option name="WHERE_EL_WRAP" value="3" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </HSQLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="USE_EXPLICIT_JS_EXTENSION" value="TRUE" />
   </JSCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
-    <option name="FROM_EL_WRAP" value="2" />
-    <option name="WHERE_EL_WRAP" value="3" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
-    <option name="FROM_EL_WRAP" value="2" />
-    <option name="WHERE_EL_WRAP" value="3" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
-    <option name="FROM_EL_WRAP" value="2" />
-    <option name="WHERE_EL_WRAP" value="3" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </OracleCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
@@ -181,59 +16,12 @@
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="ELSE_IF_STYLE" value="COMBINE" />
-    <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
-  <PostgresCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
-    <option name="FROM_EL_WRAP" value="2" />
-    <option name="WHERE_EL_WRAP" value="3" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
-    <option name="FROM_EL_WRAP" value="2" />
-    <option name="WHERE_EL_WRAP" value="3" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </SQLiteCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
     <option name="myVersion" value="1" />
     <option name="ALIAS_CASE" value="4" />
@@ -257,29 +45,6 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
-    <option name="FROM_EL_WRAP" value="2" />
-    <option name="WHERE_EL_WRAP" value="3" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </SybaseCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_EXPLICIT_JS_EXTENSION" value="TRUE" />
   </TypeScriptCodeStyleSettings>

@@ -7,16 +7,6 @@
       </set>
     </option>
     <option name="nativeLanguage" value="German (Germany)" />
-    <option name="enabledProgrammingLanguages">
-      <set />
-    </option>
-    <option name="enabledGrammarStrategies">
-      <set>
-        <option value="nl.rubensten.texifyidea:Latex" />
-        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
-        <option value="tanvd.grazi:TEXT" />
-      </set>
-    </option>
     <option name="version" value="1" />
   </component>
 </application>

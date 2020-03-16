@@ -1,11 +1,18 @@
 <keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+  </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
     <mouse-shortcut keystroke="control button3" />
   </action>
   <action id="EditorToggleCase" />
+  <action id="PublishGroup.Download">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+  </action>
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
+    <keyboard-shortcut first-keystroke="shift ctrl plus" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
 </keymap>

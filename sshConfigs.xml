@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="83.169.4.84" id="790ab7dc-d9b1-433a-a991-83d1142bb01e" port="22" nameFormat="DESCRIPTIVE" username="emex-dev" />
+    </configs>
+  </component>
+</application>

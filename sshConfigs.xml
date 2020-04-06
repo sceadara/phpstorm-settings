@@ -3,6 +3,7 @@
     <configs>
       <sshConfig authType="OPEN_SSH" host="83.169.4.84" id="790ab7dc-d9b1-433a-a991-83d1142bb01e" port="22" nameFormat="DESCRIPTIVE" username="emex-dev" />
       <sshConfig authType="OPEN_SSH" host="91.250.87.154" id="850a1eb6-1248-4b50-aaca-63ded92f2135" port="22" nameFormat="DESCRIPTIVE" username="emex-dev" />
+      <sshConfig authType="OPEN_SSH" host="87.230.17.44" id="7fea5405-7443-478a-a7e9-de2e6289caf1" port="22" nameFormat="DESCRIPTIVE" username="emex-dev" />
     </configs>
   </component>
 </application>

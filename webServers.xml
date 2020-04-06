@@ -8,6 +8,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="d3ef7abd-a101-4411-8748-34f5b8616fe5" name="freiewaehlerstuttgart.de" url="https://freiewaehlerstuttgart.de">
+        <fileTransfer rootFolder="/var/www/vhosts/emendo-develop.de/freiewaehlerstuttgart.de" accessType="SFTP" host="91.250.87.154" port="22" sshConfigId="850a1eb6-1248-4b50-aaca-63ded92f2135" sshConfig="emex-dev@91.250.87.154:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

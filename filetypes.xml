@@ -5,6 +5,7 @@
       <mapping pattern="Security/JwtUserTest" type="PHP" />
       <mapping ext="html5" type="PHP" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="b8477f8ec93e3350bb9a5f9aa7334024" type="PLAIN_TEXT" />
       <mapping pattern="3e701e84bd3571f1dac72e699848e877" type="PLAIN_TEXT" />
       <mapping ext="pp" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />

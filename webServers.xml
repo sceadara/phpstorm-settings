@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="404b3333-9c19-40b6-9d7a-6470ab78418a" name="emendo-v5" url="https://emendo-dev.de">
-        <fileTransfer rootFolder="/var/www/vhosts/emendo-dev.de" accessType="SFTP" sshConfigId="790ab7dc-d9b1-433a-a991-83d1142bb01e" sshConfig="emex-dev@83.169.4.84:22 agent">
+        <fileTransfer rootFolder="/var/www/vhosts/emendo-dev.de" accessType="SFTP" host="83.169.4.84" port="22" sshConfigId="790ab7dc-d9b1-433a-a991-83d1142bb01e" sshConfig="v5" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

@@ -10,4 +10,11 @@
     <entry key="popup.fix.ide.frame.owner" value="true" />
     <entry key="allow.dialog.based.popups" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>

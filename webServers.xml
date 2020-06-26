@@ -22,6 +22,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="f51c934c-7e16-4758-b42e-7ce99469078e" name="chris.emendo-dev.de" url="https://chris.emendo-dev.de">
+        <fileTransfer rootFolder="/var/www/vhosts/emendo-dev.de/chris.emendo-dev.de" accessType="SFTP" host="83.169.4.84" port="22" sshConfigId="790ab7dc-d9b1-433a-a991-83d1142bb01e" sshConfig="v5" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

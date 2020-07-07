@@ -1,10 +1,6 @@
 <application>
   <component name="UISettings">
-    <option name="EDITOR_TAB_LIMIT" value="100" />
-    <option name="HIDE_NAVIGATION_ON_FOCUS_LOSS" value="false" />
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="10" />
-    <option name="RECENT_FILES_LIMIT" value="100" />
-    <option name="RECENT_LOCATIONS_LIMIT" value="50" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>

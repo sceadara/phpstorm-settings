@@ -15,6 +15,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="9e700f4f-951b-4daa-9cf3-a01ae86f3fd8" name="emendo-v10-fkfs">
+        <fileTransfer rootFolder="/var/www/vhosts/fkfs-events.de/" accessType="SFTP" host="37.61.205.119" port="22" sshConfigId="bbb952a9-3c05-4955-9c46-7b571a56fbe6" sshConfig="v10-emex-fkfs" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

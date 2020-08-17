@@ -23,14 +23,14 @@
         </fileTransfer>
       </webServer>
       <webServer id="0498f86a-cf0d-4374-a8f1-85aeb395e23c" name="emendo-v7-gdholz" url="http://gdholz-veranstaltungen.de">
-        <fileTransfer rootFolder="/var/www/vhosts/gdholz-veranstaltungen.de" accessType="SFTP" sshConfigId="c5fd6a29-3a96-4464-a111-f82fcfd0021b" sshConfig="v7-emex-gdholz">
+        <fileTransfer rootFolder="/var/www/vhosts/gdholz-veranstaltungen.de" accessType="SFTP" host="37.61.204.239" port="22" sshConfigId="c5fd6a29-3a96-4464-a111-f82fcfd0021b" sshConfig="v7-emex-gdholz" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="b3082306-73d1-4f39-a48b-90f56f9bddf8" name="emendo-v11" url="http://emendo-v11.de">
-        <fileTransfer rootFolder="/var/www/vhosts/emendo-v11.de" accessType="SFTP" host="5.35.251.193" port="22" sshConfigId="52906cf6-6413-427d-bd09-a8afe2a7c9e8" sshConfig="v11" authAgent="true">
+        <fileTransfer rootFolder="/var/www/vhosts/emendo-v11.de" accessType="SFTP" sshConfigId="52906cf6-6413-427d-bd09-a8afe2a7c9e8" sshConfig="v11">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

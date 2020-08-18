@@ -10,6 +10,9 @@
       <sshConfig authType="OPEN_SSH" host="37.61.205.119" id="bbb952a9-3c05-4955-9c46-7b571a56fbe6" port="22" customName="v10-emex-fkfs" nameFormat="CUSTOM" username="emex-fkfs">
         <option name="customName" value="v10-emex-fkfs" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="5.35.251.193" id="52906cf6-6413-427d-bd09-a8afe2a7c9e8" port="22" customName="v11" nameFormat="CUSTOM" username="emex-dev">
+        <option name="customName" value="v11" />
+      </sshConfig>
     </configs>
   </component>
 </application>

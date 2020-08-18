@@ -37,7 +37,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="45115200-f781-48d5-a37a-f4892f49342d" name="emendo-v12-ecb" url="http://ecblistensevent.com">
-        <fileTransfer rootFolder="/var/www/vhosts/ecblistensevent.com/httpdocs" accessType="SFTP" host="91.250.87.244" port="22" sshConfigId="16d799e1-a136-4cd1-aa95-fa387000daf7" sshConfig="v12-emex-ecb" authAgent="true">
+        <fileTransfer rootFolder="/var/www/vhosts/ecblistensevent.com/httpdocs" accessType="SFTP" sshConfigId="16d799e1-a136-4cd1-aa95-fa387000daf7" sshConfig="v12-emex-ecb">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

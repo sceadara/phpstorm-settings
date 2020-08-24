@@ -9,11 +9,6 @@
       <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/Devel/cyberspectrum/kedaredia/api/bin/phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="33aba9a9-f685-4f9d-8aa5-f3fcf46d6399" name="PHP 7.x" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.x">

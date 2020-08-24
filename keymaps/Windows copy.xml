@@ -1,0 +1,16 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt subtract" />
+  </action>
+  <action id="PublishGroup.Download">
+    <keyboard-shortcut first-keystroke="ctrl alt minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+  </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="ctrl alt plus" />
+    <keyboard-shortcut first-keystroke="shift ctrl plus" />
+  </action>
+</keymap>

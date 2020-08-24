@@ -1,22 +1,43 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="404b3333-9c19-40b6-9d7a-6470ab78418a" name="emendo-v5" url="https://emendo-dev.de">
-        <fileTransfer rootFolder="/var/www/vhosts/emendo-dev.de" accessType="SFTP" sshConfigId="790ab7dc-d9b1-433a-a991-83d1142bb01e" sshConfig="emex-dev@83.169.4.84:22 agent">
+      <webServer id="4124bdef-090b-47fd-ac95-761f2a2f2c63" name="emendo-v4">
+        <fileTransfer rootFolder="/var/www/vhosts/emendo-develop.de" accessType="SFTP" host="91.250.87.154" port="22" sshConfigId="9ccf1f3b-b065-424a-a081-24e6dda5c7b4" sshConfig="v4" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="d3ef7abd-a101-4411-8748-34f5b8616fe5" name="freiewaehlerstuttgart.de" url="https://freiewaehlerstuttgart.de">
-        <fileTransfer rootFolder="/var/www/vhosts/emendo-develop.de/freiewaehlerstuttgart.de" accessType="SFTP" host="91.250.87.154" port="22" sshConfigId="850a1eb6-1248-4b50-aaca-63ded92f2135" sshConfig="v4" authAgent="true">
+      <webServer id="4e75c753-c79c-4a03-8ea8-4fd456cff525" name="emendo-v5">
+        <fileTransfer rootFolder="/var/www/vhosts/emendo-dev.de" accessType="SFTP" host="83.169.4.84" port="22" sshConfigId="4c5091e2-05c6-4058-92c0-7565a4d9a868" sshConfig="v5" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="d4efe1b8-e20d-45e3-b0e4-9d06cb2b85ac" name="emendo-v4" url="http://emendo-develop.de">
-        <fileTransfer rootFolder="/var/www/vhosts/emendo-develop.de/" accessType="SFTP" host="91.250.87.154" port="22" sshConfigId="850a1eb6-1248-4b50-aaca-63ded92f2135" sshConfig="v4" authAgent="true">
+      <webServer id="9e700f4f-951b-4daa-9cf3-a01ae86f3fd8" name="emendo-v10-fkfs">
+        <fileTransfer rootFolder="/var/www/vhosts/fkfs-events.de/" accessType="SFTP" host="37.61.205.119" port="22" sshConfigId="bbb952a9-3c05-4955-9c46-7b571a56fbe6" sshConfig="v10-emex-fkfs" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="0498f86a-cf0d-4374-a8f1-85aeb395e23c" name="emendo-v7-gdholz" url="http://gdholz-veranstaltungen.de">
+        <fileTransfer rootFolder="/var/www/vhosts/gdholz-veranstaltungen.de" accessType="SFTP" sshConfigId="c5fd6a29-3a96-4464-a111-f82fcfd0021b" sshConfig="v7-emex-gdholz">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b3082306-73d1-4f39-a48b-90f56f9bddf8" name="emendo-v11" url="http://emendo-v11.de">
+        <fileTransfer rootFolder="/var/www/vhosts/emendo-v11.de" accessType="SFTP" host="5.35.251.193" port="22" sshConfigId="52906cf6-6413-427d-bd09-a8afe2a7c9e8" sshConfig="v11" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="45115200-f781-48d5-a37a-f4892f49342d" name="emendo-v12-ecb" url="http://ecblistensevent.com">
+        <fileTransfer rootFolder="/var/www/vhosts/ecblistensevent.com/httpdocs" accessType="SFTP" sshConfigId="16d799e1-a136-4cd1-aa95-fa387000daf7" sshConfig="v12-emex-ecb">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

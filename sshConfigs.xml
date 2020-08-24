@@ -1,10 +1,18 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="91.250.87.154" id="850a1eb6-1248-4b50-aaca-63ded92f2135" port="22" customName="v4" nameFormat="CUSTOM" username="emex-dev" />
-      <sshConfig authType="OPEN_SSH" host="87.230.17.44" id="7fea5405-7443-478a-a7e9-de2e6289caf1" port="22" nameFormat="DESCRIPTIVE" username="emex-dev" />
-      <sshConfig authType="OPEN_SSH" host="5.35.251.193" id="9eb10e17-dd17-4753-b5da-f1b29cd739f4" port="22" customName="v11" nameFormat="CUSTOM" username="emex-dev" />
-      <sshConfig authType="OPEN_SSH" host="37.61.204.239" id="90e533fe-08a2-436b-b513-cf3b7afd1c24" port="22" customName="v7-deguz" nameFormat="CUSTOM" username="emex-deguz" />
+      <sshConfig authType="OPEN_SSH" host="91.250.87.154" id="9ccf1f3b-b065-424a-a081-24e6dda5c7b4" port="22" customName="v4" nameFormat="CUSTOM" username="emex-dev">
+        <option name="customName" value="v4" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="83.169.4.84" id="4c5091e2-05c6-4058-92c0-7565a4d9a868" port="22" customName="v5" nameFormat="CUSTOM" username="emex-dev">
+        <option name="customName" value="v5" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="37.61.205.119" id="bbb952a9-3c05-4955-9c46-7b571a56fbe6" port="22" customName="v10-emex-fkfs" nameFormat="CUSTOM" username="emex-fkfs">
+        <option name="customName" value="v10-emex-fkfs" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="5.35.251.193" id="52906cf6-6413-427d-bd09-a8afe2a7c9e8" port="22" customName="v11" nameFormat="CUSTOM" username="emex-dev">
+        <option name="customName" value="v11" />
+      </sshConfig>
     </configs>
   </component>
 </application>

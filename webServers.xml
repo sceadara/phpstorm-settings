@@ -23,7 +23,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="0498f86a-cf0d-4374-a8f1-85aeb395e23c" name="emendo-v7-gdholz" url="http://gdholz-veranstaltungen.de">
-        <fileTransfer rootFolder="/var/www/vhosts/gdholz-veranstaltungen.de" accessType="SFTP" host="37.61.204.239" port="22" sshConfigId="c5fd6a29-3a96-4464-a111-f82fcfd0021b" sshConfig="v7-emex-gdholz" authAgent="true">
+        <fileTransfer rootFolder="/var/www/vhosts/gdholz-veranstaltungen.de" accessType="SFTP" host="37.61.204.239" port="22" sshConfigId="c5fd6a29-3a96-4464-a111-f82fcfd0021b" sshConfig="v7-emex-dkfz" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

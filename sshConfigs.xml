@@ -16,6 +16,9 @@
       <sshConfig host="37.61.204.239" id="c5fd6a29-3a96-4464-a111-f82fcfd0021b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="v7-emex-dkfz" nameFormat="CUSTOM" username="emex-dkfz">
         <option name="customName" value="v7-emex-dkfz" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="37.61.202.191" id="05e52b5a-49a4-47ab-b8fc-a6f1ebe35700" port="22" customName="v9" nameFormat="CUSTOM" username="emex-dev">
+        <option name="customName" value="v9" />
+      </sshConfig>
     </configs>
   </component>
 </application>

@@ -9,6 +9,7 @@
     <entry key="ide.mouse.popup.trigger.modifiers.disabled" value="false" />
     <entry key="popup.fix.ide.frame.owner" value="true" />
     <entry key="allow.dialog.based.popups" value="true" />
+    <entry key="ide.images.show.chessboard" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

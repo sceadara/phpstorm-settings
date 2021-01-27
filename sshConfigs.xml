@@ -22,6 +22,9 @@
       <sshConfig authType="OPEN_SSH" host="91.250.82.217" id="1eda7d7e-1947-475c-a7d5-1a4a4eef2b6c" port="22" customName="v6-thieme-dev" nameFormat="CUSTOM" username="thieme-dev">
         <option name="customName" value="v6-thieme-dev" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="87.230.17.44" id="e8400700-28e0-40a5-9285-8eff1373d093" port="22" customName="v13" nameFormat="CUSTOM" username="emex-dev">
+        <option name="customName" value="v13" />
+      </sshConfig>
     </configs>
   </component>
 </application>

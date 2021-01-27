@@ -50,6 +50,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="cc270e39-4b07-4e1b-8214-5e5a47196f1a" name="emendo-v13" url="http://emex-world.de">
+        <fileTransfer rootFolder="/var/www/vhosts/emex-world.de" accessType="SFTP" host="87.230.17.44" port="22" sshConfigId="e8400700-28e0-40a5-9285-8eff1373d093" sshConfig="v13" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

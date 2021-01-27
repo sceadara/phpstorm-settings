@@ -43,6 +43,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="8d9043f4-bb84-4471-961f-490b844a2e1a" name="emendo-v6">
+        <fileTransfer rootFolder="/var/www/vhosts/emendo-v9.de" accessType="SFTP" host="91.250.82.217" port="22" sshConfigId="1eda7d7e-1947-475c-a7d5-1a4a4eef2b6c" sshConfig="v6-thieme-dev" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

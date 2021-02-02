@@ -25,6 +25,9 @@
       <sshConfig authType="OPEN_SSH" host="87.230.17.44" id="e8400700-28e0-40a5-9285-8eff1373d093" port="22" customName="v13" nameFormat="CUSTOM" username="emex-dev">
         <option name="customName" value="v13" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="83.169.4.84" id="a835b5aa-6faa-4922-8d20-384330ec934a" port="22" customName="v5-emendo-v5" nameFormat="CUSTOM" username="emendo-v5">
+        <option name="customName" value="v5-emendo-v5" />
+      </sshConfig>
     </configs>
   </component>
 </application>

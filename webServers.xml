@@ -36,13 +36,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="45115200-f781-48d5-a37a-f4892f49342d" name="emendo-v12-ecb" url="http://ecblistensevent.com">
-        <fileTransfer rootFolder="/var/www/vhosts/ecblistensevent.com/httpdocs" accessType="SFTP" sshConfigId="16d799e1-a136-4cd1-aa95-fa387000daf7" sshConfig="v12-emex-ecb">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="8d9043f4-bb84-4471-961f-490b844a2e1a" name="emendo-v6" url="http://emendo-v9.de">
         <fileTransfer rootFolder="/var/www/vhosts/thieme-dev.de" accessType="SFTP" host="91.250.82.217" port="22" sshConfigId="1eda7d7e-1947-475c-a7d5-1a4a4eef2b6c" sshConfig="v6-thieme-dev" authAgent="true">
           <advancedOptions>
@@ -52,6 +45,13 @@
       </webServer>
       <webServer id="cc270e39-4b07-4e1b-8214-5e5a47196f1a" name="emendo-v13" url="http://emex-world.de">
         <fileTransfer rootFolder="/var/www/vhosts/emex-world.de" accessType="SFTP" host="87.230.17.44" port="22" sshConfigId="e8400700-28e0-40a5-9285-8eff1373d093" sshConfig="v13" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b29d5cad-b1fe-47db-9a63-f44bc1db2e54" name="emendo-v5-v5" url="http://emendo-v5.de">
+        <fileTransfer rootFolder="/var/www/vhosts/emendo-v5.de" accessType="SFTP" host="83.169.4.84" port="22" sshConfigId="a835b5aa-6faa-4922-8d20-384330ec934a" sshConfig="v5-emendo-v5" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

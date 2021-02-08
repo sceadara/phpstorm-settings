@@ -1,31 +1,31 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="91.250.87.154" id="9ccf1f3b-b065-424a-a081-24e6dda5c7b4" port="22" customName="v4" nameFormat="CUSTOM" username="emex-dev">
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.87.154" id="9ccf1f3b-b065-424a-a081-24e6dda5c7b4" port="22" customName="v4" nameFormat="CUSTOM" username="emex-dev">
         <option name="customName" value="v4" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="83.169.4.84" id="4c5091e2-05c6-4058-92c0-7565a4d9a868" port="22" customName="v5" nameFormat="CUSTOM" username="emex-dev">
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="83.169.4.84" id="4c5091e2-05c6-4058-92c0-7565a4d9a868" port="22" customName="v5" nameFormat="CUSTOM" username="emex-dev">
         <option name="customName" value="v5" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="37.61.205.119" id="bbb952a9-3c05-4955-9c46-7b571a56fbe6" port="22" customName="v10-emex-fkfs" nameFormat="CUSTOM" username="emex-fkfs">
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="37.61.205.119" id="bbb952a9-3c05-4955-9c46-7b571a56fbe6" port="22" customName="v10-emex-fkfs" nameFormat="CUSTOM" username="emex-fkfs">
         <option name="customName" value="v10-emex-fkfs" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="5.35.251.193" id="52906cf6-6413-427d-bd09-a8afe2a7c9e8" port="22" customName="v11" nameFormat="CUSTOM" username="emex-dev">
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="5.35.251.193" id="52906cf6-6413-427d-bd09-a8afe2a7c9e8" port="22" customName="v11" nameFormat="CUSTOM" username="emex-dev">
         <option name="customName" value="v11" />
       </sshConfig>
-      <sshConfig host="37.61.204.239" id="c5fd6a29-3a96-4464-a111-f82fcfd0021b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="v7-emex-dkfz" nameFormat="CUSTOM" username="emex-dkfz">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="37.61.204.239" id="c5fd6a29-3a96-4464-a111-f82fcfd0021b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="v7-emex-dkfz" nameFormat="CUSTOM" username="emex-dkfz">
         <option name="customName" value="v7-emex-dkfz" />
       </sshConfig>
       <sshConfig authType="OPEN_SSH" host="37.61.202.191" id="05e52b5a-49a4-47ab-b8fc-a6f1ebe35700" port="22" customName="v9" nameFormat="CUSTOM" username="emex-dev">
         <option name="customName" value="v9" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="91.250.82.217" id="1eda7d7e-1947-475c-a7d5-1a4a4eef2b6c" port="22" customName="v6-thieme-dev" nameFormat="CUSTOM" username="thieme-dev">
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.82.217" id="1eda7d7e-1947-475c-a7d5-1a4a4eef2b6c" port="22" customName="v6-thieme-dev" nameFormat="CUSTOM" username="thieme-dev">
         <option name="customName" value="v6-thieme-dev" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="87.230.17.44" id="e8400700-28e0-40a5-9285-8eff1373d093" port="22" customName="v13" nameFormat="CUSTOM" username="emex-dev">
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="87.230.17.44" id="e8400700-28e0-40a5-9285-8eff1373d093" port="22" customName="v13" nameFormat="CUSTOM" username="emex-dev">
         <option name="customName" value="v13" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="83.169.4.84" id="a835b5aa-6faa-4922-8d20-384330ec934a" port="22" customName="v5-emendo-v5" nameFormat="CUSTOM" username="emendo-v5">
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="83.169.4.84" id="a835b5aa-6faa-4922-8d20-384330ec934a" port="22" customName="v5-emendo-v5" nameFormat="CUSTOM" username="emendo-v5">
         <option name="customName" value="v5-emendo-v5" />
       </sshConfig>
     </configs>

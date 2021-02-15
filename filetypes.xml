@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="855f92484c8c414d36c1b25cb24876e30229cbbf" type="AUTO_DETECTED" />
       <mapping pattern="Security/JwtUserTest" type="PHP" />
       <mapping pattern="JwtUserTest" type="PHP" />
       <mapping ext="html5" type="PHP" />

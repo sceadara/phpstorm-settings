@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="4e75c753-c79c-4a03-8ea8-4fd456cff525" name="emendo-v5">
-        <fileTransfer rootFolder="/var/www/vhosts/emendo-dev.de" accessType="SFTP" host="83.169.4.84" port="22" sshConfigId="4c5091e2-05c6-4058-92c0-7565a4d9a868" sshConfig="v5" authAgent="true">
+        <fileTransfer rootFolder="/var/www/vhosts/emendo-dev.de" accessType="SFTP" host="5.35.241.199" port="22" sshConfigId="4c5091e2-05c6-4058-92c0-7565a4d9a868" sshConfig="v5" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

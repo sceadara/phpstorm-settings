@@ -31,6 +31,9 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="5.35.241.199" id="aa001ac0-5268-4c6a-99a6-6659e21dbd2d" port="22" customName="v5-emex-dev" nameFormat="CUSTOM" username="emex-dev">
         <option name="customName" value="v5-emex-dev" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="atlantis.unix-network.de" id="e0fd40ca-ea01-4dfd-91c3-a345c135c9f9" port="22" customName="atlantis-kunde43" nameFormat="CUSTOM" username="kunde43">
+        <option name="customName" value="atlantis-kunde43" />
+      </sshConfig>
     </configs>
   </component>
 </application>

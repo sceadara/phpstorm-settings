@@ -1,8 +1,8 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.87.154" id="9ccf1f3b-b065-424a-a081-24e6dda5c7b4" port="22" customName="v4" nameFormat="CUSTOM" username="emex-dev">
-        <option name="customName" value="v4" />
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.87.154" id="9ccf1f3b-b065-424a-a081-24e6dda5c7b4" port="22" customName="v4-old" nameFormat="CUSTOM" username="emex-dev">
+        <option name="customName" value="v4-old" />
       </sshConfig>
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="5.35.241.199" id="4c5091e2-05c6-4058-92c0-7565a4d9a868" port="22" customName="v5" nameFormat="CUSTOM" username="emex-dev">
         <option name="customName" value="v5" />
@@ -33,6 +33,12 @@
       </sshConfig>
       <sshConfig authType="OPEN_SSH" host="atlantis.unix-network.de" id="e0fd40ca-ea01-4dfd-91c3-a345c135c9f9" port="22" customName="atlantis-kunde43" nameFormat="CUSTOM" username="kunde43">
         <option name="customName" value="atlantis-kunde43" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="68ba81ce-4827-43b3-8055-47795a08e0b2" port="22" customName="v4-emex-dev" nameFormat="CUSTOM" username="emex-dev">
+        <option name="customName" value="v4-emex-dev" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="580c41f6-b068-4e94-adf3-70987bfb209b" port="22" customName="v4-fw-dev" nameFormat="CUSTOM" username="fw-dev">
+        <option name="customName" value="v4-fw-dev" />
       </sshConfig>
     </configs>
   </component>

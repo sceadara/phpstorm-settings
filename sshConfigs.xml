@@ -1,9 +1,6 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.87.154" id="9ccf1f3b-b065-424a-a081-24e6dda5c7b4" port="22" customName="v4-old" nameFormat="CUSTOM" username="emex-dev">
-        <option name="customName" value="v4-old" />
-      </sshConfig>
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="5.35.241.199" id="4c5091e2-05c6-4058-92c0-7565a4d9a868" port="22" customName="v5" nameFormat="CUSTOM" username="emex-dev">
         <option name="customName" value="v5" />
       </sshConfig>
@@ -25,17 +22,14 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="87.230.17.44" id="e8400700-28e0-40a5-9285-8eff1373d093" port="22" customName="v13" nameFormat="CUSTOM" username="emex-dev">
         <option name="customName" value="v13" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="83.169.4.84" id="a835b5aa-6faa-4922-8d20-384330ec934a" port="22" customName="v5-emendo-v5" nameFormat="CUSTOM" username="emendo-v5">
-        <option name="customName" value="v5-emendo-v5" />
-      </sshConfig>
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="5.35.241.199" id="aa001ac0-5268-4c6a-99a6-6659e21dbd2d" port="22" customName="v5-emex-dev" nameFormat="CUSTOM" username="emex-dev">
         <option name="customName" value="v5-emex-dev" />
       </sshConfig>
       <sshConfig authType="OPEN_SSH" host="atlantis.unix-network.de" id="e0fd40ca-ea01-4dfd-91c3-a345c135c9f9" port="22" customName="atlantis-kunde43" nameFormat="CUSTOM" username="kunde43">
         <option name="customName" value="atlantis-kunde43" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="68ba81ce-4827-43b3-8055-47795a08e0b2" port="22" customName="v4-emex-dev" nameFormat="CUSTOM" username="emex-dev">
-        <option name="customName" value="v4-emex-dev" />
+      <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="68ba81ce-4827-43b3-8055-47795a08e0b2" port="22" customName="v4-emendo-dev" nameFormat="CUSTOM" username="emendo-dev">
+        <option name="customName" value="v4-emendo-dev" />
       </sshConfig>
       <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="580c41f6-b068-4e94-adf3-70987bfb209b" port="22" customName="v4-fw-dev" nameFormat="CUSTOM" username="fw-dev">
         <option name="customName" value="v4-fw-dev" />

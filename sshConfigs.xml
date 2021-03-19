@@ -34,6 +34,9 @@
       <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="580c41f6-b068-4e94-adf3-70987bfb209b" port="22" customName="v4-fw-dev" nameFormat="CUSTOM" username="fw-dev">
         <option name="customName" value="v4-fw-dev" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="24216328-4d42-4d92-bae0-afcbaf9b08f2" port="22" customName="v4-prostep-dev" nameFormat="CUSTOM" username="prostep-dev">
+        <option name="customName" value="v4-prostep-dev" />
+      </sshConfig>
     </configs>
   </component>
 </application>

@@ -37,6 +37,9 @@
       <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="24216328-4d42-4d92-bae0-afcbaf9b08f2" port="22" customName="v4-prostep-dev" nameFormat="CUSTOM" username="prostep-dev">
         <option name="customName" value="v4-prostep-dev" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.82.217" id="c3d995aa-ba87-4dac-a288-887dfa0e421a" port="22" customName="v6-emex-gdholz" nameFormat="CUSTOM" username="emex-gdholz">
+        <option name="customName" value="v6-emex-gdholz" />
+      </sshConfig>
     </configs>
   </component>
 </application>

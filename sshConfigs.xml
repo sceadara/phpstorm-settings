@@ -40,6 +40,9 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.82.217" id="c3d995aa-ba87-4dac-a288-887dfa0e421a" port="22" customName="v6-emex-gdholz" nameFormat="CUSTOM" username="emex-gdholz">
         <option name="customName" value="v6-emex-gdholz" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="city-chevaliers.de" id="a8910294-d876-42b1-aa83-ac1f1c42f497" port="22" customName="root@city-chevaliers.de" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="root@city-chevaliers.de" />
+      </sshConfig>
     </configs>
   </component>
 </application>

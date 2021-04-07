@@ -43,6 +43,9 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="city-chevaliers.de" id="a8910294-d876-42b1-aa83-ac1f1c42f497" port="22" customName="root@city-chevaliers.de" nameFormat="CUSTOM" username="root">
         <option name="customName" value="root@city-chevaliers.de" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="7a1b4cdf-354c-4779-ac8c-2a3c37e3d08b" port="22" customName="v4-winterhalter-dev" nameFormat="CUSTOM" username="winterhalter-dev">
+        <option name="customName" value="v4-winterhalter-dev" />
+      </sshConfig>
     </configs>
   </component>
 </application>

@@ -5,6 +5,7 @@
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
     <mouse-shortcut keystroke="control button3" />
+    <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="EditorToggleCase" />
   <action id="PublishGroup.Download">

@@ -46,6 +46,9 @@
       <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="7a1b4cdf-354c-4779-ac8c-2a3c37e3d08b" port="22" customName="v4-winterhalter-dev" nameFormat="CUSTOM" username="winterhalter-dev">
         <option name="customName" value="v4-winterhalter-dev" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="emendo-v4.de" id="f986fa85-0f1c-4321-b744-fc71eec12c01" port="22" customName="v4-dsd-dev" nameFormat="CUSTOM" username="dsd-dev">
+        <option name="customName" value="v4-dsd-dev" />
+      </sshConfig>
     </configs>
   </component>
 </application>

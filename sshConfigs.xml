@@ -31,7 +31,7 @@
       <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="68ba81ce-4827-43b3-8055-47795a08e0b2" port="22" customName="v4-emendo-dev" nameFormat="CUSTOM" username="emendo-dev">
         <option name="customName" value="v4-emendo-dev" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="580c41f6-b068-4e94-adf3-70987bfb209b" port="22" customName="v4-fw-dev" nameFormat="CUSTOM" username="fw-dev">
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="emendo-v4.de" id="580c41f6-b068-4e94-adf3-70987bfb209b" port="22" customName="v4-fw-dev" nameFormat="CUSTOM" username="fw-dev">
         <option name="customName" value="v4-fw-dev" />
       </sshConfig>
       <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="24216328-4d42-4d92-bae0-afcbaf9b08f2" port="22" customName="v4-prostep-dev" nameFormat="CUSTOM" username="prostep-dev">

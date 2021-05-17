@@ -52,6 +52,9 @@
       <sshConfig authType="OPEN_SSH" host="gameinmotion.de" id="e2c6d731-f421-4414-a791-357c48346ee0" port="22" customName="gameinmotion.de" nameFormat="CUSTOM" username="gameinmotion-admin">
         <option name="customName" value="gameinmotion.de" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="emendo-v4.de" id="07ba14f1-9316-4de3-af11-c75c43cf8354" port="22" customName="v4-dvgw-dev" nameFormat="CUSTOM" username="dvgw-dev">
+        <option name="customName" value="v4-dvgw-dev" />
+      </sshConfig>
     </configs>
   </component>
 </application>

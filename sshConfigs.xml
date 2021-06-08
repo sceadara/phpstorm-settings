@@ -4,12 +4,6 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="5.35.241.199" id="4c5091e2-05c6-4058-92c0-7565a4d9a868" port="22" customName="v5" nameFormat="CUSTOM" username="emex-dev">
         <option name="customName" value="v5" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="37.61.205.119" id="bbb952a9-3c05-4955-9c46-7b571a56fbe6" port="22" customName="v10-emex-fkfs" nameFormat="CUSTOM" username="emex-fkfs">
-        <option name="customName" value="v10-emex-fkfs" />
-      </sshConfig>
-      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="5.35.251.193" id="52906cf6-6413-427d-bd09-a8afe2a7c9e8" port="22" customName="v11" nameFormat="CUSTOM" username="emex-dev">
-        <option name="customName" value="v11" />
-      </sshConfig>
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="37.61.204.239" id="c5fd6a29-3a96-4464-a111-f82fcfd0021b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="v7-emex-dkfz" nameFormat="CUSTOM" username="emex-dkfz">
         <option name="customName" value="v7-emex-dkfz" />
       </sshConfig>
@@ -18,9 +12,6 @@
       </sshConfig>
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.82.217" id="1eda7d7e-1947-475c-a7d5-1a4a4eef2b6c" port="22" customName="v6-thieme-dev" nameFormat="CUSTOM" username="thieme-dev">
         <option name="customName" value="v6-thieme-dev" />
-      </sshConfig>
-      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="87.230.17.44" id="e8400700-28e0-40a5-9285-8eff1373d093" port="22" customName="v13" nameFormat="CUSTOM" username="emex-dev">
-        <option name="customName" value="v13" />
       </sshConfig>
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="5.35.241.199" id="aa001ac0-5268-4c6a-99a6-6659e21dbd2d" port="22" customName="v5-emex-dev" nameFormat="CUSTOM" username="emex-dev">
         <option name="customName" value="v5-emex-dev" />

@@ -49,6 +49,9 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="emendo-v4.de" id="07ba14f1-9316-4de3-af11-c75c43cf8354" port="22" customName="v4-dvgw-dev" nameFormat="CUSTOM" username="dvgw-dev">
         <option name="customName" value="v4-dvgw-dev" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.82.217" id="ea5acc15-49e7-4861-b3ad-ae5ed114817d" port="22" customName="v6-emex-fkfs" nameFormat="CUSTOM" username="emex-fkfs">
+        <option name="customName" value="v6-emex-fkfs" />
+      </sshConfig>
     </configs>
   </component>
 </application>

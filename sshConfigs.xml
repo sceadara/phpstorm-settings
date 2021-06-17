@@ -52,6 +52,9 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.82.217" id="ea5acc15-49e7-4861-b3ad-ae5ed114817d" port="22" customName="v6-emex-fkfs" nameFormat="CUSTOM" username="emex-fkfs">
         <option name="customName" value="v6-emex-fkfs" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="6d5bfa10-ed98-4ebe-9a14-59d7f0c91721" port="22" customName="v4-steuerberater-dev" nameFormat="CUSTOM" username="steuerberater-dev">
+        <option name="customName" value="v4-steuerberater-dev" />
+      </sshConfig>
     </configs>
   </component>
 </application>

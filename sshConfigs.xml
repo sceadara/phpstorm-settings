@@ -58,6 +58,9 @@
       <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="9593d8f8-178e-4a3f-8f37-37b6c862b161" port="22" customName="v4-emex-glaston" nameFormat="CUSTOM" username="emex-glaston">
         <option name="customName" value="v4-emex-glaston" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.82.217" id="40861785-e930-4edc-a51e-af49dd0a233d" port="22" customName="v6-emex-bmw" nameFormat="CUSTOM" username="emex-bmw">
+        <option name="customName" value="v6-emex-bmw" />
+      </sshConfig>
     </configs>
   </component>
 </application>

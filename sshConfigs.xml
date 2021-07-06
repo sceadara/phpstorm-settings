@@ -49,6 +49,18 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="emendo-v4.de" id="07ba14f1-9316-4de3-af11-c75c43cf8354" port="22" customName="v4-dvgw-dev" nameFormat="CUSTOM" username="dvgw-dev">
         <option name="customName" value="v4-dvgw-dev" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.82.217" id="ea5acc15-49e7-4861-b3ad-ae5ed114817d" port="22" customName="v6-emex-fkfs" nameFormat="CUSTOM" username="emex-fkfs">
+        <option name="customName" value="v6-emex-fkfs" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="6d5bfa10-ed98-4ebe-9a14-59d7f0c91721" port="22" customName="v4-steuerberater-dev" nameFormat="CUSTOM" username="steuerberater-dev">
+        <option name="customName" value="v4-steuerberater-dev" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="9593d8f8-178e-4a3f-8f37-37b6c862b161" port="22" customName="v4-emex-glaston" nameFormat="CUSTOM" username="emex-glaston">
+        <option name="customName" value="v4-emex-glaston" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.82.217" id="40861785-e930-4edc-a51e-af49dd0a233d" port="22" customName="v6-emex-bmw" nameFormat="CUSTOM" username="emex-bmw">
+        <option name="customName" value="v6-emex-bmw" />
+      </sshConfig>
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.82.217" id="ba57e4d4-f247-45f2-b6b4-8c661673e923" port="22" customName="v6-kaercher-dev" nameFormat="CUSTOM" username="kaercher-dev">
         <option name="customName" value="v6-kaercher-dev" />
       </sshConfig>

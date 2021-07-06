@@ -1,0 +1,8 @@
+<templateSet group="Laravel-Blade">
+  <template name="@once" value="@once&#10;    $END$&#10;@$STOP$" description="Blade @once" toReformat="false" toShortenFQNames="true">
+    <variable name="STOP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

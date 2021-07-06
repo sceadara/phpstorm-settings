@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="ac7af73798652f65b46971bc0a8dd962" type="AUTO_DETECTED" />
       <mapping pattern="855f92484c8c414d36c1b25cb24876e30229cbbf" type="AUTO_DETECTED" />
+      <mapping pattern="ac7af73798652f65b46971bc0a8dd962" type="AUTO_DETECTED" />
       <mapping pattern="Security/JwtUserTest" type="PHP" />
       <mapping pattern="JwtUserTest" type="PHP" />
       <mapping ext="html5" type="PHP" />
@@ -18,6 +18,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="Log" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />

@@ -61,6 +61,9 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.82.217" id="40861785-e930-4edc-a51e-af49dd0a233d" port="22" customName="v6-emex-bmw" nameFormat="CUSTOM" username="emex-bmw">
         <option name="customName" value="v6-emex-bmw" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.82.217" id="029e069d-2ddb-4336-9c76-ecb2e9f1b571" port="22" customName="v6-kaercher-dev" nameFormat="CUSTOM" username="kaercher-dev">
+        <option name="customName" value="v6-kaercher-dev" />
+      </sshConfig>
     </configs>
   </component>
 </application>

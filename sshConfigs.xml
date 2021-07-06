@@ -49,6 +49,9 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="emendo-v4.de" id="07ba14f1-9316-4de3-af11-c75c43cf8354" port="22" customName="v4-dvgw-dev" nameFormat="CUSTOM" username="dvgw-dev">
         <option name="customName" value="v4-dvgw-dev" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.82.217" id="ba57e4d4-f247-45f2-b6b4-8c661673e923" port="22" customName="v6-kaercher-dev" nameFormat="CUSTOM" username="kaercher-dev">
+        <option name="customName" value="v6-kaercher-dev" />
+      </sshConfig>
     </configs>
   </component>
 </application>

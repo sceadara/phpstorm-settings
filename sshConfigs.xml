@@ -67,6 +67,9 @@
       <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="af4e367b-c617-46fe-8eb5-54eaf3e315cd" port="22" customName="v4-bcw-dev" nameFormat="CUSTOM" username="bcw-dev">
         <option name="customName" value="v4-bcw-dev" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.82.217" id="0a91c216-86ee-4358-a59a-85c09d7ee561" port="22" customName="v6-mc-dev" nameFormat="CUSTOM" username="mc-dev">
+        <option name="customName" value="v6-mc-dev" />
+      </sshConfig>
     </configs>
   </component>
 </application>

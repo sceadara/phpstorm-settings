@@ -8,7 +8,6 @@
       <mapping ext="html5" type="PHP" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="3e701e84bd3571f1dac72e699848e877" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="pp" type="PLAIN_TEXT" />
@@ -18,6 +17,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="Log" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />

@@ -6,6 +6,7 @@
       <mapping pattern="Security/JwtUserTest" type="PHP" />
       <mapping pattern="JwtUserTest" type="PHP" />
       <mapping ext="html5" type="PHP" />
+      <mapping ext="pgp" type="PHP" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="3e701e84bd3571f1dac72e699848e877" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />

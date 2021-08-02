@@ -70,6 +70,9 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="91.250.82.217" id="0a91c216-86ee-4358-a59a-85c09d7ee561" port="22" customName="v6-mc-dev" nameFormat="CUSTOM" username="mc-dev">
         <option name="customName" value="v6-mc-dev" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="emendo-v4.de" id="89ad5d7d-7e95-4284-b129-336aee3ed0d6" port="22" customName="v4-altbau-dev" nameFormat="CUSTOM" username="altbau-dev">
+        <option name="customName" value="v4-altbau-dev" />
+      </sshConfig>
       <sshConfig authType="OPEN_SSH" host="5.35.250.123" id="d5164ceb-15f4-4c28-9cd4-79b6f4c5ba69" port="22" customName="v12-emex-ecb" nameFormat="CUSTOM" username="emex-ecb">
         <option name="customName" value="v12-emex-ecb" />
       </sshConfig>
